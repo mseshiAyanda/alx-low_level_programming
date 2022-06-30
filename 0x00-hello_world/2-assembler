@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc $CFIE -S
+gcc $CFILE -S
